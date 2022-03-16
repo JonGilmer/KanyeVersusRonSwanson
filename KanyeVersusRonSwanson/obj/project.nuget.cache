@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJORlm8p4kZYWJ/yPLNGqu0T5S9XekINbM+RcS+H0l6kWkUGh8SaAXnhc+I9QZ5Er9p/7TZH4baXb3VuVpRENw==",
+  "success": true,
+  "projectFilePath": "/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/KanyeVersusRonSwanson.csproj",
+  "expectedPackageFiles": [
+    "/Users/JonathanGilmer/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

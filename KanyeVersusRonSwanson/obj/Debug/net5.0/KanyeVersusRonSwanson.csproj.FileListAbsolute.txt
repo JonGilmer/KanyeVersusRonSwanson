@@ -1,0 +1,17 @@
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/KanyeVersusRonSwanson.deps.json
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/KanyeVersusRonSwanson.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/KanyeVersusRonSwanson.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/KanyeVersusRonSwanson.dll
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/ref/KanyeVersusRonSwanson.dll
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/KanyeVersusRonSwanson.pdb
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.csproj.CopyComplete
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.dll
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/ref/KanyeVersusRonSwanson.dll
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.pdb
+/Users/JonathanGilmer/Desktop/Repos/KanyeVersusRonSwanson/KanyeVersusRonSwanson/obj/Debug/net5.0/KanyeVersusRonSwanson.genruntimeconfig.cache
